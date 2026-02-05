@@ -25,7 +25,7 @@ A股量化
 ## 章节目录
 
 - [第一章：量化交易概述](chapters/01_intro.md)
-- [第二章：数据源与数据处理](chapters/02_data.md)
+- [三部门发布海南自由贸易港岛内居民消费的进境商品“零关税”政策](chapters//02_intro.md)
 - [第三章：因子模型](chapters/03_factor.md)
 - [第四章：回测系统](chapters/04_backtest.md)
 - [第五章：策略示例](chapters/05_strategy.md)
